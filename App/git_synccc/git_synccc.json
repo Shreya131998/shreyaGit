@@ -1,8 +1,8 @@
 {
   "isDownloadedJSON": true,
   "appJSON": {
-    "template_name": "git_sync",
-    "description": "shreya",
+    "template_name": "git_synccc",
+    "description": "shreyaaa",
     "group_id": "[]",
     "plugin_id": "1560",
     "action": "add",
@@ -12,7 +12,7 @@
     "embed": "{\"action\":\"\"}",
     "is_show_case_app": 0,
     "meta": "",
-    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/SweJBP9mug.png",
+    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/hentOS1Kq8.png",
     "features": "[]",
     "_engVer": "1.1.0",
     "is_premium": false,
