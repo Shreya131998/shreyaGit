@@ -1,8 +1,8 @@
 {
   "isDownloadedJSON": true,
   "appJSON": {
-    "template_name": "mmt",
-    "description": "shreya",
+    "template_name": "mmtss",
+    "description": "shreyaaa",
     "group_id": "[]",
     "plugin_id": "1557",
     "action": "add",
@@ -12,7 +12,7 @@
     "embed": "{\"action\":\"\"}",
     "is_show_case_app": 0,
     "meta": "",
-    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/tpfPlvWwYE.png",
+    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/vWv8laHJpp.png",
     "features": "[]",
     "_engVer": "1.1.0",
     "is_premium": false,
