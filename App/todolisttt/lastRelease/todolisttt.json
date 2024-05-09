@@ -1,8 +1,8 @@
 {
   "isDownloadedJSON": true,
   "appJSON": {
-    "template_name": "todolist",
-    "description": "shreya",
+    "template_name": "todolisttt",
+    "description": "shreyaaa",
     "group_id": "[]",
     "plugin_id": "1566",
     "action": "add",
@@ -12,7 +12,7 @@
     "embed": "{\"action\":\"\"}",
     "is_show_case_app": 0,
     "meta": "",
-    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/CHyM6gtvVf.png",
+    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/4yE3C5yWuz.png",
     "features": "[]",
     "_engVer": "1.1.0",
     "is_premium": false,
